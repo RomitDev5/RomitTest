@@ -1,0 +1,17 @@
+Microsoft Visual Studio IDE (we develop code, i.e. talk to sql server)
+IDE - Integrated Development Environment
+
+Micrsoft Sql Server (MSSQL) (reads and writes data, stores relational data)
+SQL - Structured Query Language
+
+find me all the games where lebron james scored more than 5 
+3 pointers
+
+select * from games
+where 3pointers > 5
+and playerfn = 'Lebron' and playerln = 'James'
+
+GitHub???? - source code repository - stores and has history of 
+all the code we write
+
+each application created has its own repository on github
