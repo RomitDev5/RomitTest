@@ -17,7 +17,17 @@ each application created has its own repository on github
 
 top most layer or branch is - MAIN
 
+SSMS - Sql Server Management Studio 
+
 -main
 	-branch01
+	
+1. before you start a trello ticket...
+2. create a new branch off of MAIN
+3. once done with code on branch - COMMIT to github
+4. create a PR - Pull Request that compares branch to main
+5. paste or send PR link to Manish or add to Trello
+6. Manish will code review the PR 
+7. Merge the branch into main
 	
 -END of Session
